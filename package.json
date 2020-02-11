@@ -1,11 +1,12 @@
 {
-  "name": "@nuxtjs/dotenv",
+  "name": "tnd-nuxt/dotenv-flow",
   "version": "1.4.1",
-  "description": "A Nuxt.js module that loads your .env file into your context options",
-  "repository": "nuxt-community/dotenv-module",
+  "description": "A Nuxt.js module tracking the Nuxt-Community Dotenv project that is modifed use dotenv-flow instead of dotenv.",
+  "repository": "tndttan/nuxt-dotenv-flow-module",
   "license": "MIT",
   "contributors": [
-    "Julien Tant <julien@craftyx.fr>"
+    "Julien Tant <julien@craftyx.fr>",
+    "Teewoon Tan <ttan@tanadium.com>"
   ],
   "files": [
     "lib"
@@ -18,7 +19,7 @@
   },
   "dependencies": {
     "consola": "^2.11.3",
-    "dotenv": "^8.2.0"
+    "dotenv-flow": "^3.1.0"
   },
   "devDependencies": {
     "@commitlint/cli": "latest",
