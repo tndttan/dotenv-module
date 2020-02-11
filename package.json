@@ -1,5 +1,5 @@
 {
-  "name": "tnd-nuxt/dotenv-flow",
+  "name": "@tnd/nuxt-dotenv-flow",
   "version": "1.4.1",
   "description": "A Nuxt.js module tracking the Nuxt-Community Dotenv project that is modifed use dotenv-flow instead of dotenv.",
   "repository": "tndttan/nuxt-dotenv-flow-module",
